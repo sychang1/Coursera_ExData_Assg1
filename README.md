@@ -1,4 +1,4 @@
-# README.md
+# README.md  
 
 This repository contains the following files. 
 They correspond to the assignment 1 of Coursera's Exploratory Data Analysis Course.
